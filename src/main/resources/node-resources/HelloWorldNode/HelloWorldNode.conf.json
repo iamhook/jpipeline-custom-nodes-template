@@ -1,0 +1,16 @@
+{
+  "category": "Other",
+  "editMode": "SIMPLE",
+  "color": "#dff538",
+  "inputs": 0,
+  "outputs": 1,
+  "hasButton": true,
+  "properties": [
+    {
+      "name": "name",
+      "defaultValue": "World",
+      "type": "STRING",
+      "required": true
+    }
+  ]
+}
